@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align= "https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+<img align= "https://github-readme-stats.vercel.app/api?username=Ayush&show_icons=true" />
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
 Here are some ideas to get you started:
